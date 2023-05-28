@@ -29,10 +29,13 @@
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" alt="Kubernetes" title="Kubernetes"/></code>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KA-DEVL&show_icons=true&locale=en&layout=compact" alt="ka-devl" /></p>
+<br>
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KA-DEVL&" alt="ka-devl" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KA-DEVL&show_icons=true&locale=en" alt="ka-devl" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KA-DEVL&show_icons=true&locale=en&layout=compact" alt="ka-devl" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KA-DEVL&" alt="ka-devl" /></p>
+
 
 
