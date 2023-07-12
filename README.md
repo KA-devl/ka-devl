@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anes Khadiri</h1>
-<h3 align="center">Full-stack developer</h3>
+<h3 align="center">Software Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adithyanathkv&label=Profile%20views&color=0e75b6&style=flat" alt="adithyanathkv" /> </p>
 
 📫 How to reach me **anes1999@live.ca** or **Linkedin** https://www.linkedin.com/in/anes-khadiri/
