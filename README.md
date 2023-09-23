@@ -43,7 +43,6 @@
 <br>
 
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KA-DEVL&show_icons=true&locale=en" alt="ka-devl" /></p>
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KA-DEVL&show_icons=true&locale=en&layout=compact" alt="ka-devl" /></p> 
 
 
 
