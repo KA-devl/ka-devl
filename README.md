@@ -4,9 +4,6 @@
 
 📫 How to reach me **anes1999@live.ca** or **Linkedin** https://www.linkedin.com/in/anes-khadiri/
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ka-devl" alt="ka-devl" /></a> </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></code>
