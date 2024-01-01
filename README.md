@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anes Khadiri</h1>
 <h3 align="center">Software Engineer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KA-devl&label=Profile%20views&color=0e75b6&style=flat" alt="KA-devl" /> </p>
 
 📫 How to reach me **anes1999@live.ca** or **Linkedin** https://www.linkedin.com/in/anes-khadiri/
 
