@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anes Khadiri</h1>
 <h3 align="center">Software Engineer</h3>
 
-📫 How to reach me **anes1999@live.ca** or **Linkedin** https://www.linkedin.com/in/anes-khadiri/
+Visit my website! https://nesweb.ca/
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
